@@ -13,12 +13,4 @@
     <artifactId>ose-mortgage-rules</artifactId>
     <packaging>jar</packaging>
 
-    <dependencies>
-        <dependency>
-            <groupId>${project.parent.groupId}</groupId>
-            <artifactId>ose-mortgage-datamodel</artifactId>
-            <version>${project.parent.version}</version>
-        </dependency>
-    </dependencies>
-
 </project>

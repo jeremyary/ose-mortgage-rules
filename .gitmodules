@@ -1,0 +1,6 @@
+[submodule "ose-mortgage-datamodel"]
+	path = ose-mortgage-datamodel
+	url = https://github.com/jeremyary/ose-mortgage-datamodel
+[submodule "src/main/ose-mortgage-datamodel"]
+	path = src/main/ose-mortgage-datamodel
+	url = https://github.com/jeremyary/ose-mortgage-datamodel
